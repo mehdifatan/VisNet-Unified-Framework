@@ -169,10 +169,14 @@ Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields in visual cortex.
 If you use this framework, please cite:
 
 ```bibtex
-@article{fatan2026visnet_unified,
-  title   = {A Unified Framework for Studying Local Learning in Hierarchical Visual Representations},
-  author  = {Fatan Serj, Mehdi and Parraga, C. Alejandro and Otazu, Xavier},
-  year    = {2026}
+@misc{serj2026multifrequencylocalplasticityvisual,
+      title={Multi-Frequency Local Plasticity for Visual Representation Learning}, 
+      author={Mehdi Fatan Serj and C. Alejandro Parraga and Xavier Otazu},
+      year={2026},
+      eprint={2604.09734},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.09734}, 
 }
 ```
 
